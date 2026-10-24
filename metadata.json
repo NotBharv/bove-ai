@@ -1,0 +1,6 @@
+{
+  "name": "VaniAI - Hyper-Realistic Hindi & English Voice Studio",
+  "description": "Next-gen studio for hyper-realistic Hindi, Hinglish, and English voice synthesis with fine-grained character personas, emotion control, and vocal bursts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
